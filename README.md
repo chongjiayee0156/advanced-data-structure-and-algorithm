@@ -1,4 +1,4 @@
-# Compilation of different advance algo code
+# Compilation of different advanced algo code
 
 -  pattern macthing (gusfield z algo, boyer moore)
 - ukkonen algo to build suffix tree in o(n) time
