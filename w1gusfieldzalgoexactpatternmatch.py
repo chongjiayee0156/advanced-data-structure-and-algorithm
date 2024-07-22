@@ -50,6 +50,12 @@ def gusfield(string, z_val):
                 z_val[k] = r-k+1 + similar_count
                 l = k
                 r = k + similar_count - 1
+                
+                # similar_count = compare_explicitly(string, r+1, r-k+1)
+                
+                # z_val[k] = r-k+1 + similar_count
+                # l = k
+                # r = k + z_val[k] - 1
             
             # case 2c: if z value of previous k lies beyond the end of z-box
             else:
