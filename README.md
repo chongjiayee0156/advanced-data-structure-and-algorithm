@@ -1,6 +1,7 @@
 # Compilation of different advanced algo code
 
-This repo contains my weekly algorithm learned and implemented for FIT3155. It includes:
+This repo contains my self-implemented algo for FIT3155. 
+It includes:
 
 -  pattern macthing (gusfield z algo, boyer moore)
 - ukkonen algo to build suffix tree in o(n) time
